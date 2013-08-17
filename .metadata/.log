@@ -1,0 +1,55 @@
+!SESSION 2013-08-17 11:52:28.531 -----------------------------------------------
+eclipse.buildId=M20100909-0800
+java.version=1.7.0_13
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.ui 4 4 2013-08-17 12:20:13.971
+!MESSAGE Plug-in 'com.google.appengine.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.appengine.eclipse.core.popupMenu.project.gaeSettings
+
+!ENTRY org.eclipse.ui 4 4 2013-08-17 12:20:13.984
+!MESSAGE Plug-in 'com.google.appengine.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.appengine.eclipse.core.popupMenus.deployProjectAction
+
+!ENTRY org.eclipse.ui 4 4 2013-08-17 12:20:13.985
+!MESSAGE Plug-in 'com.google.gdt.eclipse.appsmarketplace' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gdt.eclipse.appsmarketplace.popupMenus.addMarketplaceSupportAction
+
+!ENTRY org.eclipse.ui 4 4 2013-08-17 12:20:13.985
+!MESSAGE Plug-in 'com.google.gdt.eclipse.managedapis' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gdt.eclipse.managedapis.popupMenu.project.apiImportProjectAction
+
+!ENTRY org.eclipse.ui 4 4 2013-08-17 12:20:57.249
+!MESSAGE Plug-in 'com.google.appengine.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.appengine.eclipse.core.popupMenu.project.gaeSettings
+
+!ENTRY org.eclipse.ui 4 4 2013-08-17 12:20:57.250
+!MESSAGE Plug-in 'com.google.appengine.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.appengine.eclipse.core.popupMenus.deployProjectAction
+
+!ENTRY org.eclipse.ui 4 4 2013-08-17 12:20:57.250
+!MESSAGE Plug-in 'com.google.gdt.eclipse.appsmarketplace' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gdt.eclipse.appsmarketplace.popupMenus.addMarketplaceSupportAction
+
+!ENTRY org.eclipse.ui 4 4 2013-08-17 12:20:57.251
+!MESSAGE Plug-in 'com.google.gdt.eclipse.managedapis' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gdt.eclipse.managedapis.popupMenu.project.apiImportProjectAction
+
+!ENTRY org.eclipse.ui 4 4 2013-08-17 12:26:13.755
+!MESSAGE Plug-in 'com.google.appengine.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.appengine.eclipse.core.popupMenu.project.gaeSettings
+
+!ENTRY org.eclipse.ui 4 4 2013-08-17 12:26:13.755
+!MESSAGE Plug-in 'com.google.appengine.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.appengine.eclipse.core.popupMenus.deployProjectAction
+
+!ENTRY org.eclipse.ui 4 4 2013-08-17 12:26:13.755
+!MESSAGE Plug-in 'com.google.gdt.eclipse.appsmarketplace' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gdt.eclipse.appsmarketplace.popupMenus.addMarketplaceSupportAction
+
+!ENTRY org.eclipse.ui 4 4 2013-08-17 12:26:13.756
+!MESSAGE Plug-in 'com.google.gdt.eclipse.managedapis' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gdt.eclipse.managedapis.popupMenu.project.apiImportProjectAction
+
+!ENTRY org.eclipse.ui 4 4 2013-08-17 12:29:32.751
+!MESSAGE Plug-in 'com.google.appengine.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.appengine.eclipse.core.popupMenu.project.gaeSettings
+
+!ENTRY org.eclipse.ui 4 4 2013-08-17 12:29:32.751
+!MESSAGE Plug-in 'com.google.appengine.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.appengine.eclipse.core.popupMenus.deployProjectAction
+
+!ENTRY org.eclipse.ui 4 4 2013-08-17 12:29:32.752
+!MESSAGE Plug-in 'com.google.gdt.eclipse.appsmarketplace' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gdt.eclipse.appsmarketplace.popupMenus.addMarketplaceSupportAction
+
+!ENTRY org.eclipse.ui 4 4 2013-08-17 12:29:32.752
+!MESSAGE Plug-in 'com.google.gdt.eclipse.managedapis' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gdt.eclipse.managedapis.popupMenu.project.apiImportProjectAction

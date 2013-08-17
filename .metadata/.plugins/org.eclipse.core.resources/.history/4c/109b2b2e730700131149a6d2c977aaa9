@@ -1,0 +1,18 @@
+package code.arrays;
+
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertTrue;
+
+import org.junit.Test;
+
+
+public class SearchBitonicArrayTest {
+
+	 @Test
+     public void searchBitonicArray_SimpleCase() {
+             int[] input = { 1, 2, 5, 0, -2};
+
+             int result = SearchBitonicArray.searchInBitonicArray(input, 5);
+             assertEquals(result, 2);
+     }
+}
